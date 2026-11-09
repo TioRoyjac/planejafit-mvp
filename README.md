@@ -293,6 +293,11 @@ Projeto acadêmico desenvolvido para a disciplina de Empreendedorismo e Inovaç�
 
 Projeto desenvolvido exclusivamente para fins acadêmicos.
 
-<img width="3548" height="2268" alt="image" src="https://github.com/user-attachments/assets/ee951efa-c5e7-48ff-9e27-9a83cb4b34a8" />
+## 📚 Documentação
+
+- [Business Model Canvas](docs/BUSINESS_MODEL_CANVAS.md)
+- [MVP](docs/MVP.md)
+
+
 
 
