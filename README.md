@@ -297,6 +297,11 @@ Projeto desenvolvido exclusivamente para fins acadêmicos.
 
 - [Business Model Canvas](docs/BUSINESS_MODEL_CANVAS.md)
 - [MVP](docs/MVP.md)
+- 
+•	Site para os clientes: https://prompt-orchestra-engine.lovable.app
+•	Formulário direto: https://prompt-orchestra-engine.lovable.app/formulario
+•	Painel admin (leads, clientes, entregas, lembretes): https://prompt-orchestra-engine.lovable.app/login. Entre com o e-mail e a senha da sua conta. A primeira conta criada vira a do administrador.
+ 
 
 
 
